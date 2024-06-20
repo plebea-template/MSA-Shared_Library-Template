@@ -16,3 +16,22 @@ Template for library submodules of a microservice.
 ├── tsconfig.json
 ├── yarn.lock
 ```
+
+# Bootstrap
+
+## Dependency Installation
+
+```
+npm i -g yarn
+yarn install
+```
+
+## Build
+
+```
+yarn build
+```
+
+```
+yarn build:proto
+```
